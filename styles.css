@@ -40,6 +40,8 @@ h3 {
     color: gray;
 }
 
+
+
 h4 {
     text-transform: uppercase;
     font-size: 1.3em;
@@ -83,6 +85,7 @@ figure {
     font-size: 1em;
     color: gray;
     margin: 5px;
+    text-align: center;
 }
 
 .icon-container img {
@@ -97,6 +100,7 @@ figure {
 
 .intro, .byline {
     padding: 10px;
+    font-size: 1.1em;
 }
 
 .chart {
